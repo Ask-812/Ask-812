@@ -1,4 +1,4 @@
-## Hey, I'm Arnav 👋
+## Hey, I'm Arnav
 
 B.Tech student at **IIT Guwahati** — I build AI systems, developer tools, and full-stack applications.
 
