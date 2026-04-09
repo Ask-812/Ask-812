@@ -14,8 +14,6 @@ B.Tech student at **IIT Guwahati** — I build AI systems, developer tools, and 
 
 - ⛽ **[Web3 Gas Fee Optimizer](https://github.com/Ask-812/Web3)** — Batch transaction system with Solidity smart contracts, relayer service, SDK, and React frontend. Reduces gas fees via intelligent batching.
 
-- 🤖 **KRITI Rover** — Autonomous rover with TFLite image classification, PID line-following, Arduino + Raspberry Pi, and a live web dashboard. Built for KRITI 2026 robotics competition.
-
 - 🛡️ **[LLM Guardrail Studio](https://github.com/Ask-812/LLM-Guardrail-Studio)** — Safety and moderation pipeline for open-source LLMs. Toxicity, hallucination, PII, and prompt injection detection.
 
 ### Tech
